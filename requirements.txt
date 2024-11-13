@@ -1,0 +1,6 @@
+pandas
+urllib3
+requests
+praw
+configparser
+zstandard
