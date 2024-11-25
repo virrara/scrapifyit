@@ -16,5 +16,3 @@
 ## 💡 Usability  
 1. **Simplifies Data Extraction**: No more manual browsing—get what you need in a click.  
 2. **Increases Efficiency**: Spend more time analyzing data and less time searching for it.  
-
----
