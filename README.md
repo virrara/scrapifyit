@@ -1,8 +1,8 @@
 # Scrapifyit 🤖  
-**Cikara Internship Project**
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/edb82f44-a7e2-4716-a590-fd62e01ab81b" alt="Screenshot 1"> </div>
 
+**Cikara Internship Project**
 
 **Scrapifyit** is an innovative automated Reddit scraper application designed to streamline and optimize data extraction from various subreddits. Whether you're conducting research, analyzing trends, or just exploring Reddit data, **Scrapifyit** makes the process fast, efficient, and user-friendly.
 
