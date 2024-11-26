@@ -1,16 +1,17 @@
 # Scrapifyit 🤖  
 **Cikara Internship Project**
 
-![Screenshot 2023-08-24 155724](https://github.com/user-attachments/assets/edb82f44-a7e2-4716-a590-fd62e01ab81b)
+<div align="center"> <img src="https://github.com/user-attachments/assets/edb82f44-a7e2-4716-a590-fd62e01ab81b" alt="Screenshot 1"> </div>
 
-![Screenshot 2023-08-24 161445](https://github.com/user-attachments/assets/2f70f5e3-86a2-4316-abac-bd550c693de7)
+<div align="center"> <img src="https://github.com/user-attachments/assets/2f70f5e3-86a2-4316-abac-bd550c693de7" alt="Screenshot 2"> </div>
 
 
 **Scrapifyit** is an innovative automated Reddit scraper application designed to streamline and optimize data extraction from various subreddits. Whether you're conducting research, analyzing trends, or just exploring Reddit data, **Scrapifyit** makes the process fast, efficient, and user-friendly.
 
 ---
 
-![Screenshot 2023-08-24 161330](https://github.com/user-attachments/assets/00d97b89-9988-43ca-b207-23b8a1dc0027)
+<div align="center"> <img src="https://github.com/user-attachments/assets/00d97b89-9988-43ca-b207-23b8a1dc0027" alt="Screenshot 3"> </div>
+
 
 ## 🚀 Features  
 - **Automated Data Extraction**: Collect posts, image, video and gif.  
