@@ -3,8 +3,6 @@
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/edb82f44-a7e2-4716-a590-fd62e01ab81b" alt="Screenshot 1"> </div>
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/2f70f5e3-86a2-4316-abac-bd550c693de7" alt="Screenshot 2"> </div>
-
 
 **Scrapifyit** is an innovative automated Reddit scraper application designed to streamline and optimize data extraction from various subreddits. Whether you're conducting research, analyzing trends, or just exploring Reddit data, **Scrapifyit** makes the process fast, efficient, and user-friendly.
 
